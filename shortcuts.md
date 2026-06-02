@@ -115,12 +115,12 @@ git push origin main
 
 ## 🧾 KEY TERMS
 
-Repo = Project
-Commit = Save point
-Branch = Separate version
-Merge = Combine code
-Push = Upload
-Pull = Download
+1. Repo = Project
+2. Commit = Save point
+3. Branch = Separate version
+4. Merge = Combine code
+5. Push = Upload
+6. Pull = Download
 
 ---
 
