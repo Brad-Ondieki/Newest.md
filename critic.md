@@ -10,6 +10,7 @@
   1. Nothing is particularly explained when it comes to the "Mnara" insurance in the website, furthermore, when the link to the mnara page is clicked it leads nowhere.
   2. The board of directors page only has an error description page when clicked offering zero information to the user clicking it.
   3. No possibility of chatting live with the chatbot. One can choose from either FAQ or sending an email.
+  4. Its not well optimized for mobile phones. 
 
 ### Final remarks
 
